@@ -1,0 +1,14 @@
+
+public class AbsCoordinateTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		AbsCoordinate myAbsCoordinate=new AbsCoordinate();
+		myAbsCoordinate.createGUI();
+
+	}
+
+}
